@@ -9,6 +9,7 @@
 
 ## Dataset CIFAR10
 Результаты замеров времени обработки файлов
+
 ![Скриншот](images/cifar10.jpg)
 
 ## Dataset Plants
